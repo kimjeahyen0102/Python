@@ -1,2 +1,3 @@
 # Python
-code of python
+Python code and some experiments
+Programmed by Cochon
